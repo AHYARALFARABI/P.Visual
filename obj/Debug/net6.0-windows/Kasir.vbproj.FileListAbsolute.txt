@@ -1,0 +1,17 @@
+E:\p.visual\Kasir\bin\Debug\net6.0-windows\Kasir.exe
+E:\p.visual\Kasir\bin\Debug\net6.0-windows\Kasir.deps.json
+E:\p.visual\Kasir\bin\Debug\net6.0-windows\Kasir.runtimeconfig.json
+E:\p.visual\Kasir\bin\Debug\net6.0-windows\Kasir.dll
+E:\p.visual\Kasir\bin\Debug\net6.0-windows\Kasir.pdb
+E:\p.visual\Kasir\obj\Debug\net6.0-windows\Kasir.vbproj.AssemblyReference.cache
+E:\p.visual\Kasir\obj\Debug\net6.0-windows\Kasir.Form1.resources
+E:\p.visual\Kasir\obj\Debug\net6.0-windows\Kasir.vbproj.GenerateResource.cache
+E:\p.visual\Kasir\obj\Debug\net6.0-windows\Kasir.GeneratedMSBuildEditorConfig.editorconfig
+E:\p.visual\Kasir\obj\Debug\net6.0-windows\Kasir.AssemblyInfoInputs.cache
+E:\p.visual\Kasir\obj\Debug\net6.0-windows\Kasir.AssemblyInfo.vb
+E:\p.visual\Kasir\obj\Debug\net6.0-windows\Kasir.vbproj.CoreCompileInputs.cache
+E:\p.visual\Kasir\obj\Debug\net6.0-windows\Kasir.dll
+E:\p.visual\Kasir\obj\Debug\net6.0-windows\refint\Kasir.dll
+E:\p.visual\Kasir\obj\Debug\net6.0-windows\Kasir.pdb
+E:\p.visual\Kasir\obj\Debug\net6.0-windows\Kasir.genruntimeconfig.cache
+E:\p.visual\Kasir\obj\Debug\net6.0-windows\ref\Kasir.dll
